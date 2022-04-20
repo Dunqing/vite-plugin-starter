@@ -11,7 +11,7 @@ Click use this template
 ### Clone to local
 
 ```bash
-npx degit Dunqing/vite-plugin-stater vite-plugin-name
+npx degit Dunqing/vite-plugin-starter vite-plugin-name
 
 cd vite-plugin-name
 
