@@ -15,10 +15,10 @@ npx degit Dunqing/vite-plugin-starter vite-plugin-name
 
 cd vite-plugin-name
 
+# Replace all [name] with your package name
+
 pnpm i
 ```
-
-Then, replace all [name] with your package name
 
 
 
