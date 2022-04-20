@@ -33,10 +33,10 @@ pnpm add [name] -D
 
 ```typescript
 import { defineConfig } from 'vite'
-import importDynamicModule from '[name]'
+import plugin from '[name]'
 
 export default defineConfig({
-  plugins: [importDynamicModule()],
+  plugins: [plugin()],
 })
 ```
 
