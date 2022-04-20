@@ -6,7 +6,7 @@
 
 ### Github Template
 
-Click use this template
+[Click use this template](https://github.com/Dunqing/vite-plugin-starter/generate)
 
 ### Clone to local
 
