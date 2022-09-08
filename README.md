@@ -23,7 +23,7 @@ pnpm i
 
 
 
-## Install
+## Installation
 
 ```bash
 pnpm add [name] -D
